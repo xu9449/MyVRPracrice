@@ -12,4 +12,7 @@ Free3D: https://free3d.com/
 GooglePoly: https://poly.google.com/   
 MicrosoftRemix 3D: https://www.remix3d.com .   
 Sketchfab: https://sketchfab.com   
-TurboSquid: http://www.turbosquid.com/
+TurboSquid: http://www.turbosquid.com/ . 
+
+### Learn how to use Blenders   
+
