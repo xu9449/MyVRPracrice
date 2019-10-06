@@ -7,7 +7,6 @@ Planet Earth Free (https://assetstore.unity.com/packages/3d/environments/sci-fi/
 
 Other 3D models Source   
 3D CAD Browser: https://www.3dcadbrowser.com/   
-BlenderSwap: http://www.blendswap.com/CG   
 Trader: https://www.cgtrader.com/  
 Free3D: https://free3d.com/Google   
 Poly: https://poly.google.com/Microsoft   
