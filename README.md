@@ -2,7 +2,7 @@
 
 4 Awesome Unity Asset   
 Nature Starter Kit 1 and 2 (https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-1-49962)   
-Wispy Skybox (https://assetstore.unity.com/packages/2d/textures-materials/sky/wispy-skybox-21737) . 
+Wispy Skybox (https://assetstore.unity.com/packages/2d/textures-materials/sky/wispy-skybox-21737) .   
 Planet Earth Free (https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399) .    
 
 Other 3D models Source
