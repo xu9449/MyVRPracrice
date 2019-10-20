@@ -7,13 +7,22 @@ public class RandomPosition : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutin
+        StartCoroutine(RePositionWithDelay());
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    IEnumerator RePositionWithDelay()
+    {   // this will run forever
+        while(true)
+        {
+            SetRandomPosition();
+            yield return new WaitForSeconds(5);
+        }
     }
 
     void SetRandomPosition()
