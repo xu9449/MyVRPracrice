@@ -22,3 +22,6 @@ co-routine/yield mechanism
 So, if we take a unit vector (Vector3.forward), multiply it by a three-axis rotation (camera.rotation), and scale it by a length (100.0f), we'll get a ray pointing in the same direction as the camera, measuring 100 units long:  
 ray = new Ray (camera.position, camera.rotation * Vector3.forward);   
 
+Gaze Control --- Layer   
+https://docs.unity3d.com/ScriptReference/Physics.Raycast.html    
+https://docs.unity3d.com/Manual/Layers.html 
